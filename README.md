@@ -1,7 +1,7 @@
 # Logica-Fuzzy
 Usando a biblioteca skfuzzy para sugerir valores de gorjeta em um restaurante.
 
-Eu estou estuando inteligência artificial e aprendi sobre a lógica fuzzy.
+Eu estou estudando inteligência artificial e aprendi sobre a lógica fuzzy.
 
 Para praticar, criei um sistema que prevê valores de gorjeta em um restaurante.
 O valor da gorjeta depende da nota da comida (de 0 a 10) e da nota do serviço (de 0 a 10).
